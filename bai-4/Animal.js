@@ -5,7 +5,7 @@ class Animal{
         this._weight=weight
     }
 
-    get name() {
+    getName() {
         return this._name;
     }
 
@@ -13,7 +13,7 @@ class Animal{
         this._name = value;
     }
 
-    get weight() {
+    getWeight() {
         return this._weight;
     }
 

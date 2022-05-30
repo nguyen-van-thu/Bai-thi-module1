@@ -1,0 +1,7 @@
+let objAnimal1 = new Animal(`Elephant`,45.6)
+let objAnimal2 = new Animal(`Tiger`,40.6)
+objAnimal2.setName(`Mouse`)
+objAnimal1.toString()
+objAnimal2.toString()
+console.log(objAnimal1.toString())
+console.log(objAnimal2.toString())
